@@ -1,0 +1,6 @@
+[submodule "kata-containers"]
+	path = kata-containers
+	url = https://github.com/kata-containers/kata-containers
+[submodule "coco-operator"]
+	path = coco-operator
+	url = git@github.com:confidential-containers/operator
